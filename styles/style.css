@@ -38,7 +38,7 @@ header p:nth-child(2) {
 .image p {
     display: inline-block;
     z-index: 10;
-    transform: translate(-250%);
+    transform: translate(-130%);
     margin-top: 360px;
     font-size: 19px;
     font-weight: 400;
@@ -152,4 +152,8 @@ header p:nth-child(2) {
     left: -970px;
     margin-left: 33px;
     box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
 }
